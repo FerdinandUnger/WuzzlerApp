@@ -78,7 +78,7 @@
     "karma-coverage-istanbul-reporter": "~2.0.1",
     "karma-jasmine": "~2.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
-    "lodash": "~3.2.0",
+    "lodash": "~4.17.21",
     "main-bower-files": "^2.13.3",
     "merge-stream": "~0.1.7",
     "protractor": "~5.4.0",
